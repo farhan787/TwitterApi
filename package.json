@@ -1,0 +1,22 @@
+{
+  "name": "random_name",
+  "version": "1.0.0",
+  "description": "This is for the replication.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mentally",
+    "disturbes",
+    "and",
+    "serious",
+    "disorder"
+  ],
+  "author": "Farhan Shah",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
